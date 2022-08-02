@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: navy;
+    color: gold;
+}
+
+h2{
+    color: white;
+}
+
+.list{
+    color: white;
+}
+
+#bulbasaur_container{
+    color: white;
+    border: 10px;
+    border: solid;
+    padding: 10px;
+    background-color: lightgreen
+
+}
+
+.each_pokemon_container{
+    padding: 0px 600px 0px 600px
+}
